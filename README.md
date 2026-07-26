@@ -1,4 +1,4 @@
-**End-to-End Mahine Learning for Student Placement and Salary Prediction**
+**Student Placement and Salary Prediction Using End-to-End Machine Learning**
 
 Developed an end-to-end machine learning solution to predict students' employment outcomes and estimated salary based on academic performance, technical skills, lifestyle factors, and other supporting attributes. The project involved analyzing a dataset of 5,000 student records through exploratory data analysis (EDA), data preprocessing, feature engineering, and comparative modeling to identify the most effective approaches for both classification and regression tasks. The complete machine learning workflow was designed to produce reliable predictions while ensuring robust model evaluation and reproducibility.
 
